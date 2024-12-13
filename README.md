@@ -1,1 +1,1 @@
-# ML-and-AI-Challengs
+# ML-and-AI-Challenges
